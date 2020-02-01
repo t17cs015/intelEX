@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/kkihome/home/t17cs015/intelEX/.metadata/.plugins/org.eclipse.jdt.core
